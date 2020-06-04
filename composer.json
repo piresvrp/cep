@@ -18,7 +18,10 @@
             "Search": "src/"
         },
         "psr-4": {
-            "vinicius\\cep\\": "src/"
+            "vinicius\\Cep\\": "src/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
     }
 }
